@@ -53,7 +53,7 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 - Defined the strategic vision and functional requirements of the app through customer research.
 
 ### Nano Dimension - Software Development Summer Intern (Jun - Aug 2023)
-*Technologies: Python, OpenCV, NumPy, PyQt, DevOps*  
+*Technologies: Python, OpenCV, NumPy, PyQt*  
 - Designed and developed an **image processing algorithm** and license management tool for 3D printing software.
 - Rapidly adapted to unfamiliar **Python** libraries, notably **OpenCV** and **NumPy**.
 - Gained insights into DevOps practices and methodologies by collaborating with senior engineers in an Agile environment.
