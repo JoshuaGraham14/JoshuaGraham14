@@ -2,7 +2,7 @@
 
 Hello! I'm Joshua Graham, a 4th year Computer Science student at the University of Leeds. I am a passionate coder with a strong interest in AI, machine learning and mobile app development.
 
-## Work Experience
+## Work Experience 👨‍💻
 ### Equinor, London, UK
 **Knowledge AI Summer Intern** (Machine Learning, NLP, LLM, Python)  
 *Jun - Aug 2024*  
@@ -31,7 +31,7 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 ## Notable Projects 🚀
 ### Machine Learning Trading Bot (Python)
 - Developed a machine learning-based trading bot that predicts market trends using historical stock data.
-- Utilized feature engineering, model selection, and hyperparameter tuning to optimize trading strategies.
+- Utilised feature engineering, model selection, and hyperparameter tuning to optimize trading strategies.
 - Implemented techniques to classify local minima and maxima for better trade decisions.
 
 ### Run With Friends - Real-time Running Mobile App (Swift)
@@ -48,12 +48,8 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 - Integrated a ChatGPT-powered AI assistant for enhanced customer service using OpenAI’s API.
 
 ### PGM Utilities Tool (C)
-- Developed a set of tools for manipulating PGM images, focusing on robust, well-maintained, and modularized code.
+- Developed a set of tools for manipulating PGM images, focusing on robust, well-maintained, and modularised code.
 - Addressed challenges in processing and storing large datasets by leveraging C's memory management capabilities and complex data structures.
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.  
 Connect with me on [LinkedIn](https://linkedin.com/in/joshua-graham-leeds) or reach out via [email](mailto:joshuajgraham002@gmail.com).
-
----
-
-_If you'd like to discuss any projects, collaborations, or opportunities, please don't hesitate to contact me. Let's create something amazing together!_ 🚀
