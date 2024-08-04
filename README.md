@@ -29,26 +29,32 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 - Presented project progress in sprint review meetings to team members and stakeholders.
 
 ## Notable Projects 🚀
-### Machine Learning Trading Bot (Python)
+
+### Machine Learning Trading Bot
+*Technologies: Python, Scikit-Learn, Pandas, NumPy*
 - Developed a machine learning-based trading bot that predicts market trends using historical stock data.
-- Utilised feature engineering, model selection, and hyperparameter tuning to optimize trading strategies.
+- Utilized feature engineering, model selection, and hyperparameter tuning to optimize trading strategies.
 - Implemented techniques to classify local minima and maxima for better trade decisions.
 
-### Run With Friends - Real-time Running Mobile App (Swift)
+### [Run With Friends - Real-time Running Mobile App](https://github.com/JoshuaGraham14/RunWithFriends)
+*Technologies: Swift, Google Firestore, Core Location Framework*
 - Created an app that allows two players to connect online and compete in a running race with real-time statistics (distance, speed, calories burnt).
 - Utilized Google Firestore Realtime Database and Apple’s Core Location Framework for GPS data integration.
 
-### Salvadoran Village Virtual Reconstruction (C#, Unity)
+### Salvadoran Village Virtual Reconstruction
+*Technologies: C#, Unity, VR Development*
 - Developed an interactive VR application to create a life-size reconstruction of a Salvadoran village destroyed during the civil war.
 - Part of a broader university research initiative, showcasing advanced VR development skills.
 
-### Fitness Centre Web App (Python, JavaScript)
+### Fitness Centre Web App
+*Technologies: Python, JavaScript, Stripe API, OpenAI API*
 - Worked in an Agile team to develop a fully-functional website for a fictional fitness centre.
 - Included features like an interactive calendar and online purchasing via Stripe API.
 - Integrated a ChatGPT-powered AI assistant for enhanced customer service using OpenAI’s API.
 
-### PGM Utilities Tool (C)
-- Developed a set of tools for manipulating PGM images, focusing on robust, well-maintained, and modularised code.
+### [PGM Utilities Tool](https://github.com/JoshuaGraham14/PGM-Image-Utilities-Coursework)
+*Technologies: C, Data Structures, Memory Management*
+- Developed a set of tools for manipulating PGM images, focusing on robust, well-maintained, and modularized code.
 - Addressed challenges in processing and storing large datasets by leveraging C's memory management capabilities and complex data structures.
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.  
