@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-## Introduction
-Hello! I'm Joshua Graham, a passionate coder with a strong background in computer science. My journey in coding began at a young age and has grown into a full-fledged passion for developing innovative solutions and learning new technologies. I am currently studying Computer Science at the University of Leeds, where I have honed my skills through diverse experiences in software development, machine learning, and web design.
+Hello! I'm Joshua Graham, a 4th year Computer Science student at the University of Leeds. I am a passionate coder with a strong interest in AI, machine learning and mobile app development.
 
 ## Work Experience
 ### Equinor, London, UK
