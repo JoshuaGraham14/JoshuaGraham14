@@ -36,5 +36,33 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 - A minimalist to-do list app, utilizing simple gestures (e.g., double tap, swipe) to view and add reminders.
 - Efficiently stores and represents data using a custom **dynamic data structure**.
 
+<!---
+## Work Experience 👨‍💻
+### Equinor, London, UK
+**Knowledge AI Summer Intern** (Machine Learning, NLP, LLM, Python)  
+*Jun - Aug 2024*  
+- Developed a system using a **Large Language Model (LLM)** to automate data extraction from LNG market intel in MS Teams messages.
+- Processed over 700 messages, creating a proprietary dataset that enhanced trading strategies and data-driven decisions.
+- Built and trained a custom **ML text classifier** to identify LNG cargo trade intentions with 93% accuracy.
+- Created a script for preprocessing large volumes of unstructured trader messages using **NLP** techniques.
+- Presented my work to 60 colleagues, receiving positive feedback for its significant impact.
+
+### Softwire, London, UK
+**Software Engineering Summer Intern** (Full-Stack, NodeJS, ReactJS, Git, Jira)  
+*Jun - Aug 2023*  
+- Built a **full-stack** train monitoring application as part of a 9-member Agile team.
+- Developed the back-end using **JavaScript/TypeScript**, integrating multiple APIs for live data and addressing complex **data caching** challenges.
+- Managed DevOps, creating a GitLab pipeline for automatic app deployment to AWS using **Docker**.
+- Defined the strategic vision and functional requirements of the app through customer research.
+
+### Nano Dimension, Tel Aviv, Israel
+**Software Development Summer Intern** (Python, OpenCV, NumPy, PyQt, DevOps)  
+*Jun - Aug 2022*  
+- Designed and developed an **image processing algorithm** and license management tool for 3D printing software.
+- Rapidly adapted to unfamiliar **Python** libraries, notably **OpenCV** and **NumPy**.
+- Gained insights into DevOps practices and methodologies by collaborating with senior engineers in an Agile environment.
+- Presented project progress in sprint review meetings to team members and stakeholders.
+-->
+
 Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.  
 Connect with me on [LinkedIn](https://linkedin.com/in/joshua-graham-leeds) or reach out via [email](mailto:joshuajgraham002@gmail.com).
