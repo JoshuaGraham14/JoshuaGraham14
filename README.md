@@ -57,5 +57,10 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 - Developed a set of tools for manipulating PGM images, focusing on robust, well-maintained, and modularized code.
 - Addressed challenges in processing and storing large datasets by leveraging C's memory management capabilities and complex data structures.
 
+### [Remindy - To-do List Mobile App](https://github.com/JoshuaGraham14/Remindy)
+*Technologies: Swift, Custom Data Structures*
+- A minimalist to-do list app, utilizing simple gestures (e.g., double tap, swipe) to view and add reminders.
+- Efficiently stores and represents data using a custom dynamic data structure.
+
 Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.  
 Connect with me on [LinkedIn](https://linkedin.com/in/joshua-graham-leeds) or reach out via [email](mailto:joshuajgraham002@gmail.com).
