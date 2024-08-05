@@ -2,7 +2,7 @@
 
 Hello! I'm Joshua Graham, a 4th year Computer Science student at the University of Leeds. I am a passionate coder with a strong interest in AI, machine learning and mobile app development.
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" style="margin-left: 20px">
+<a href="https://www.linkedin.com/in/joshua-graham-leeds" style="margin-left: 20px">
     <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30" />
 </a>
 
