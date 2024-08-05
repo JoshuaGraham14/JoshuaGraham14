@@ -23,7 +23,7 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 - Created an app that allows two players to connect online and compete in a running race with real-time statistics (distance, speed, calories burnt).
 - Utilized **Google Firestore Realtime Database** and Apple’s Core Location Framework for GPS data integration.
 
-### Salvadoran Village Virtual Reconstruction
+### [Salvadoran Village Virtual Reconstruction 🔗](https://github.com/JoshuaGraham14/SalvadoranVillageVirtualReconstruction)
 *Technologies: C#, Unity, VR Development*  
 - Developed an interactive **VR** application to create a life-size reconstruction of a Salvadoran village destroyed during the civil war.
 - Part of a broader university research initiative, showcasing advanced VR development skills.
