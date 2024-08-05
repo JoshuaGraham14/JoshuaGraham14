@@ -2,6 +2,10 @@
 
 Hello! I'm Joshua Graham, a 4th year Computer Science student at the University of Leeds. I am a passionate coder with a strong interest in AI, machine learning and mobile app development.
 
+## Statistics ⚡
+
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaGraham14&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=500" />
+
 ## Notable Projects 🚀
 
 ### Machine Learning Trading Bot
@@ -58,6 +62,8 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 - Rapidly adapted to unfamiliar **Python** libraries, notably **OpenCV** and **NumPy**.
 - Gained insights into DevOps practices and methodologies by collaborating with senior engineers in an Agile environment.
 - Presented project progress in sprint review meetings to team members and stakeholders.
+
+## Let's Connect 🤝
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.  
 Connect with me on [LinkedIn](https://linkedin.com/in/joshua-graham-leeds) or reach out via [email](mailto:joshuajgraham002@gmail.com).
