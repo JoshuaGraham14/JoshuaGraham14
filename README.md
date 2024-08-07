@@ -8,7 +8,7 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 
 ## Statistics ⚡
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaGraham14&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=500" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaGraham14&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=500&theme=auto" />
 
 ## Notable Projects 🚀
 
