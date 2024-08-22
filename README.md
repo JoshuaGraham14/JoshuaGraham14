@@ -14,9 +14,11 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 
 ### [Machine Learning Trading Bot 🔗](https://github.com/JoshuaGraham14/MachineLearningTradingBot)
 *Technologies: Python, Scikit-Learn, Pandas, NumPy*  
-- Developed a **machine learning**-based trading bot that predicts market trends using **historical stock data**.
-- Utilized **feature engineering**, **model selection**, and **hyperparameter tuning** to optimize trading strategies.
-- Implemented techniques to classify local minima and maxima for better trade decisions.
+- Technologies: Python, Scikit-Learn, Pandas, NumPy, Twelve Data API
+- Developed a **machine learning** system to classify stock price points as minima or maxima, generating buy/sell signals.
+- Integrated technical indicators and **logistic regression** to enhance prediction accuracy and trading strategy effectiveness.
+- Implemented API-driven data collection, robust feature engineering, and model evaluation to optimize performance.
+
 
 ### [Run With Friends 🔗](https://github.com/JoshuaGraham14/RunWithFriends) - **Real-time Running Mobile App**
 *Technologies: Swift, Google Firestore, Core Location Framework*  
