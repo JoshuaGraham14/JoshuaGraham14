@@ -16,7 +16,7 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 *Technologies: Python, Scikit-Learn, Pandas, NumPy*  
 - Developed a **machine learning** system to classify stock price points as minima or maxima, generating buy/sell signals.
 - Integrated technical indicators and **logistic regression** to enhance prediction accuracy and trading strategy effectiveness.
-- Implemented API-driven data collection, robust feature engineering, and model evaluation to optimize performance.
+- Implemented API-driven **data collection**, robust **feature engineering**, and **model evaluation** to optimize performance.
 
 
 ### [Run With Friends 🔗](https://github.com/JoshuaGraham14/RunWithFriends) - **Real-time Running Mobile App**
