@@ -14,10 +14,10 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 
 ### [ML-based Stock Signal Prediction System 🔗](https://github.com/JoshuaGraham14/ML-based_Stock_Signal_Prediction_System)
 *Technologies: Python, Scikit-Learn, Pandas, NumPy, Matplotlib*  
-- Developed a **machine learning** system to classify stock price points as minima or maxima, generating buy/sell signals.
-- Integrated technical indicators and **logistic regression** to enhance prediction accuracy and trading strategy effectiveness.
-- Implemented API-driven **data collection**, robust **feature engineering**, and **model evaluation** to optimize performance.
-- Added data visualization tools using **Matplotlib** and **Seaborn** to graphically represent stock trends and model predictions for enhanced decision-making.
+- Built a **machine learning** system to classify stock price points as local minima or maxima, generating buy/sell signals.
+- Designed and trained a custom **logistic regression** model with 25+ training stocks, using 10+ technical indicators as features.
+- Developed an efficient API-driven data collection system using a **custom API handler** with integrated **caching** and data processing capabilities.
+- Created visualization tools using **Matplotlib** and **Seaborn** to graphically represent stock trends and model predictions for enhanced decision-making.
 
 ### [Run With Friends 🔗](https://github.com/JoshuaGraham14/RunWithFriends) - **Real-time Running Mobile App**
 *Technologies: Swift, Google Firestore, Core Location Framework*  
