@@ -17,16 +17,17 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 - Developed a **machine learning** system that utilises historical stock data to classify stock price points as local minima or maxima, generating buy/sell signals.
 - Designed and trained a custom **logistic regression** model with 25+ training stocks, using 10+ technical indicators as features, alongside hyperparameter tuning for optimal performance.
 - Built an efficient API-driven data collection system using a **custom API handler** with integrated **caching** and data processing capabilities.
-- Created visualization tools using **Matplotlib** and **Seaborn** to graphically represent stock trends and model predictions for enhanced decision-making.
+- Implemented a backtesting simulation to evaluate and optimise trading strategies for maximum profitability.
+- Created visualisation tools using **Matplotlib** and **Seaborn** to graphically represent stock trends and model predictions for enhanced decision-making.
 
 ### [Run With Friends 🔗](https://github.com/JoshuaGraham14/RunWithFriends) - **Real-time Running Mobile App**
 *Technologies: Swift, Google Firestore, Core Location Framework*  
 - Created an app that allows two players to connect online and compete in a running race with real-time statistics (distance, speed, calories burnt).
-- Utilized **Google Firestore Realtime Database** and Apple’s Core Location Framework for GPS data integration.
+- Utilised **Google Firestore Realtime Database** and Apple’s Core Location Framework for GPS data integration.
 
 ### [Salvadoran Village Virtual Reconstruction 🔗](https://github.com/JoshuaGraham14/SalvadoranVillageVirtualReconstruction)
 *Technologies: C#, Unity, VR Development*  
-- Developed an interactive **VR** application to create a life-size reconstruction of a Salvadoran village destroyed during the civil war.
+- Developed an interactive **VR** application to create a life-sise reconstruction of a Salvadoran village destroyed during the civil war.
 - Part of a broader university research initiative, showcasing advanced VR development skills.
 
 ### Fitness Centre Web App
@@ -37,12 +38,12 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 
 ### [PGM Utilities Tool 🔗](https://github.com/JoshuaGraham14/PGM-Image-Utilities-Coursework)
 *Technologies: C, Data Structures, Memory Management*  
-- Developed a set of tools for manipulating PGM images, focusing on robust, well-maintained, and modularized code.
+- Developed a set of tools for manipulating PGM images, focusing on robust, well-maintained, and modularised code.
 - Addressed challenges in processing and storing large datasets by leveraging **C**'s **memory management** capabilities and complex **data structures**.
 
 ### [Remindy 🔗](https://github.com/JoshuaGraham14/Remindy) - **To-do List Mobile App**
 *Technologies: Swift, Custom Data Structures*  
-- A minimalist to-do list app, utilizing simple gestures (e.g., double tap, swipe) to view and add reminders.
+- A minimalist to-do list app, utilising simple gestures (e.g., double tap, swipe) to view and add reminders.
 - Efficiently stores and represents data using a custom **dynamic data structure**.
 
 ## Work Experience 👨‍💻
