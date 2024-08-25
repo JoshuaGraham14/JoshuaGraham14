@@ -17,7 +17,7 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 - Developed a **machine learning** system that utilises historical stock data to classify stock price points as local minima or maxima, generating buy/sell signals.
 - Designed and trained a custom **logistic regression** model with 25+ training stocks, using 10+ technical indicators as features, alongside hyperparameter tuning for optimal performance.
 - Built an efficient API-driven data collection system using a **custom API handler** with integrated **caching** and data processing capabilities.
-- Implemented a backtesting simulation to evaluate and optimise trading strategies for maximum profitability.
+- Implemented a **backtesting** simulation to evaluate and optimise trading strategies for maximum profitability.
 - Created visualisation tools using **Matplotlib** and **Seaborn** to graphically represent stock trends and model predictions for enhanced decision-making.
 
 ### [Run With Friends 🔗](https://github.com/JoshuaGraham14/RunWithFriends) - **Real-time Running Mobile App**
