@@ -12,6 +12,13 @@ Hello! I'm Joshua Graham, a 4th year Computer Science student at the University 
 
 ## Notable Projects 🚀
 
+### [PrepPal: AI-Powered Revision Tool 🔗](https://github.com/JoshuaGraham14/PrepPal)  
+*Technologies: Palantir AIP, Large Language Models (LLMs)*  
+- Developed a revision tool designed to help students prepare for exams efficiently by turning uploaded study materials into an interactive question bank.  
+- Utilised **large language models** to process PDFs, notes, and lecture slides into personalised questions, complete with answers and detailed explanations, using **Ontology** to structure and manage study materials.
+- Integrated functionality to interact with an LLM through an **AIP Logic Function** to generate detailed explanations for selected answers.
+- Built in **AIP Workshop**, designed features for filtering questions by **lecture**, **difficulty**, and **marks**.
+
 ### [ML-based Stock Signal Prediction System 🔗](https://github.com/JoshuaGraham14/ML-based_Stock_Signal_Prediction_System)
 *Technologies: Python, Scikit-Learn, Pandas, NumPy, Matplotlib*  
 - Developed a **machine learning** system that utilises historical stock data to classify stock price points as local minima or maxima, generating buy/sell signals.
