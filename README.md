@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello! I'm Joshua Graham, a 4th year Computer Science student at the University of Leeds. I am a passionate coder with a strong interest in AI, machine learning and mobile app development.
+Hello! I'm Joshua Graham. I’m an AI & Machine Learning Master’s student at Imperial College London, passionate about learning, building, and driving innovation in technology wherever it can have the most impact.
 
 <a href="https://www.linkedin.com/in/joshua-graham-leeds" style="margin-left: 20px">
     <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30" />
